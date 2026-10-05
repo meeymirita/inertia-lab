@@ -1,6 +1,6 @@
 # Inertia Lab — Inkwell, блог-платформа
 
-![Inertia](https://meeymirita-files.storage.yandexcloud.net/inertia/inertia.png)
+![Inertia](https://raw.githubusercontent.com/meeymirita/works-lab/main/images/inertia.png)
 
 **Статус: ⚪ методичка вычитана и проверена запуском (04.10.2026), прохождение впереди.**
 **Сложность: средняя.** Проект самостоятельный (свой репозиторий `inertia-lab`), кода из других лаб не берёт. Предполагается знакомство с Laravel (контроллеры, Eloquent, FormRequest, Policies — на уровне Laravel Lab) и с Vue 3 (Composition API — на уровне Vue Lab); сам мост Inertia объясняется с нуля.
